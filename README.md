@@ -2,6 +2,8 @@
 
 This is a fork to apply some patches. The applied patches and Modification will be listed here.
 
+* Pull Request: Fix inverted forward, backward, left and right motor controls (https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/pull/23)
+
 ## Freenove 4WD Smart Car Kit for Raspberry Pi
 
 > A 4WD smart car kit for Raspberry Pi.
