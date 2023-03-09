@@ -1,3 +1,7 @@
+## Fork Description ##
+
+This is a fork to apply some patches. The applied patches and Modification will be listed here.
+
 ## Freenove 4WD Smart Car Kit for Raspberry Pi
 
 > A 4WD smart car kit for Raspberry Pi.
